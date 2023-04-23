@@ -149,7 +149,14 @@
 				"D:/Projects/Unreal5-WP-Landscape-Demo/Unreal/Content/__ExternalActors__/Maps/L_WorldPartitionDemo/9/AL/6J718K1WAWQZT63UWUD6RO.uasset",
 				"D:/Projects/Unreal5-WP-Landscape-Demo/Unreal/Content/__ExternalActors__/Maps/L_WorldPartitionDemo/5/UX/67GSC5J84L7TIMDDXFH82G.uasset",
 				"D:/Projects/Unreal5-WP-Landscape-Demo/Unreal/Content/Maps/L_WorldPartitionDemo.umap",
-				"D:/Projects/Unreal5-WP-Landscape-Demo/Unreal/Content/Widgets/W_HoudiniMenu.uasset"
+				"D:/Projects/Unreal5-WP-Landscape-Demo/Unreal/Content/Widgets/W_HoudiniMenu.uasset",
+				"D:/Projects/Unreal5-WP-Landscape-Demo/Unreal/Content/Data/Struct/STR_LandscapeData.uasset",
+				"D:/Projects/Unreal5-WP-Landscape-Demo/Unreal/Content/Data/Struct/STR_LandscapeLayerData.uasset",
+				"D:/Projects/Unreal5-WP-Landscape-Demo/Unreal/Content/Data/Struct/STR_LandscapeProxyData.uasset",
+				"D:/Projects/Unreal5-WP-Landscape-Demo/Unreal/Content/HDAs/sop_alekv_landscape_edit_1_0.uasset",
+				"D:/Projects/Unreal5-WP-Landscape-Demo/Unreal/Content/__ExternalActors__/Maps/L_WorldPartitionDemo/5/5Z/GYI4COD6R32KWL4HB3YRJW.uasset",
+				"D:/Projects/Unreal5-WP-Landscape-Demo/Unreal/Content/__ExternalActors__/Maps/L_WorldPartitionDemo/2/ZF/PGZNW0VEZ99PPSTXOB5BSB.uasset",
+				"D:/Projects/Unreal5-WP-Landscape-Demo/Unreal/Content/__ExternalActors__/Maps/L_WorldPartitionDemo/0/A1/QNWQ7H2JPLYAG7IAKYEGK9.uasset"
 			]
 		}
 	]
