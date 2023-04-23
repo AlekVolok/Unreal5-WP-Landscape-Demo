@@ -4,3 +4,6 @@ Unreal/Saved/Autosaves/
 Houdini/backup/
 Houdini/hda/backup/
 *.hiplc
+Unreal/Saved/Autosaves/PackageRestoreData.json
+Unreal/Content/HoudiniEngine/Temp/
+Unreal/Saved/

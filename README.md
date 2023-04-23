@@ -1,2 +1,9 @@
 # Unreal5-WP-Landscape-Demo
-Made for environmental experiments
+## Demo of non-distructive HoudiniEngine workflow with Unreal's World Partition.
+
+**Made with**\
+UnrealEngine 5.1.1\
+Houdini Indie 19.5.569
+
+**Usage Example**\
+![[Usage.gif]]
