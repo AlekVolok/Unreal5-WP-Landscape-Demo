@@ -1,5 +1,5 @@
 # Unreal5-WP-Landscape-Demo
-## Demo of non-distructive HoudiniEngine workflow with Unreal's World Partition.
+## Demonstration of a non-destructive HoudiniEngine workflow showcasing Unreal's World Partition technology.
 
 **Made with**\
 UnrealEngine 5.1.1\
